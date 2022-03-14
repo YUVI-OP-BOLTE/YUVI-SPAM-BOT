@@ -1,6 +1,6 @@
 # YUVI SPAMBOT 
 <p align="center"> 
-  <img src="https://te.legra.ph/file/da853f68f9f96368582fc.jpg"> 
+  <img src="https://te.legra.ph/file/d1ae18e2d147a4f1317be.jpg"> 
 </p> 
 
 ## Deployments
@@ -16,5 +16,5 @@
 ------------------------------------------------- 
 ### Contact Support
 Any queries or issue contact 
-- [![GenerateString](https://img.shields.io/badge/DM%20ON%20TELEGRAM-blueviolet?style=for-the-badge&logo=telegram)](https://t.me/BEINGHEROX)
+- [![GenerateString](https://img.shields.io/badge/DM%20ON%20TELEGRAM-blueviolet?style=for-the-badge&logo=telegram)](https://t.me/DAMAGED_GUY)
 
